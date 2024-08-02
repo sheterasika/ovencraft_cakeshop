@@ -1,8 +1,28 @@
 h1{
     text-align: center;
 }
-p{
+.tagline{
     font-family: "Caveat", cursive;
     text-align: center;
     font-size: large;
+}
+.cake-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.cake-card{
+    background-color: #ccccb3;
+    width: 220px;
+    padding: 12px 12px;
+    border: solid #5c5c3d;
+    border-radius: 8px;
+    margin: 20px;
+}
+.cake-img{
+    height: 200px;
+    width: 190px;
+    display: block;
+    margin: 15px auto;
+    border-radius: 10px;
 }
