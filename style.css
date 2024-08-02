@@ -43,4 +43,13 @@ h1{
     color: white;
     border:solid #5c5c3d;
 }
+.about{
+    margin: 25px 20px;
+}
+.contact{
+    margin: 25px 20px;
+}
+.contact a{
+    text-decoration: none;
+}
 
