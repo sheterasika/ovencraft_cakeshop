@@ -1,10 +1,13 @@
 h1{
     text-align: center;
+    color: #800040;
+    font-size: 40px;
 }
 .tagline{
     font-family: "Caveat", cursive;
     text-align: center;
     font-size: large;
+    color: #b30059;
 }
 .cake-container{
     display: flex;
@@ -28,5 +31,16 @@ h1{
 }
 .description{
     text-align: center;
-    
 }
+.btn{
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 12px;
+    cursor: pointer;
+    background-color: darkolivegreen;
+    color: white;
+    border:solid #5c5c3d;
+}
+
